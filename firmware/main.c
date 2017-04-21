@@ -35,7 +35,6 @@
 
 // Project includes
 #include "TinyBuckDefines.h"
-#include "hw.h"
 #include "eeprom.h"
 
 /*****************************************************************************
